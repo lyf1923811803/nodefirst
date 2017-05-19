@@ -1,6 +1,6 @@
 {
-	"author":"Lv YongFei",
-	"name":"censorify",
+	"author":"LvYongFei",
+	"name":"censorify_lyf",
 	"version":"0.1.1",
 	"description":"Censors words out of text",
 	"main":"censortext",
@@ -13,7 +13,7 @@
 	"words"
 	],
 	"dependencies":{
-		"jquery":""
+		"jquery":"*"
 	},
 	"engines":{
 		"node":"*"
