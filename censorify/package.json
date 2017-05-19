@@ -1,7 +1,7 @@
 {
 	"author":"LvYongFei",
 	"name":"censorify_lyf",
-	"version":"0.1.1",
+	"version":"1.1.1",
 	"description":"Censors words out of text",
 	"main":"censortext",
 	"repository":{
