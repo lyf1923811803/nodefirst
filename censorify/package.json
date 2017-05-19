@@ -1,0 +1,21 @@
+{
+	"author":"Lv YongFei",
+	"name":"censorify",
+	"version":"0.1.1",
+	"description":"Censors words out of text",
+	"main":"censortext",
+	"repository":{
+		"type":"git",
+		"location":"d:anzhuang/nodejs/new"
+	},
+	"keywords":[
+	"censor",
+	"words"
+	],
+	"dependencies":{
+		"jquery":""
+	},
+	"engines":{
+		"node":"*"
+	}
+}
