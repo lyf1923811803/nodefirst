@@ -6,7 +6,7 @@
 	"main":"censortext",
 	"repository":{
 		"type":"git",
-		"location":"d:anzhuang/nodejs/new"
+		"url":"https://github.com/lyf1923811803/nodefirst/tree/master/censorify"
 	},
 	"keywords":[
 	"censor",
